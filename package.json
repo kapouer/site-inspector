@@ -1,5 +1,5 @@
 {
-  "name": "sittin",
+  "name": "site-inspector",
   "version": "0.0.0",
   "description": "A site indexer with pluggable backend and api",
   "main": "index.js",
@@ -20,5 +20,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kapouer/sittin/issues"
+  },
+  "dependencies": {
+    "url-inspector": "^1.2.12"
   }
 }
